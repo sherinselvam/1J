@@ -1,2 +1,3 @@
- branch one
+ branch one line one
  branch one line two
+ branch one line three
