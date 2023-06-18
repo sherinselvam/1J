@@ -1,2 +1,287 @@
+GIT LOGS
 
-hello
+commit c984d0b0ed301827b56d8604bb80ba6c20767e43 (HEAD -> b1)
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:41:26 2023 +0530
+
+    test
+
+commit a715d5eb12f8c7c196b0eec4adde07eed7260bac
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:31:47 2023 +0530
+
+    line
+
+commit 4b8a2ee3921d1e07747012db3d24365a16c58e97
+Author: pandian <pandian@hippo.com>
+Date:   Thu Jun 8 19:36:18 2023 +0530
+
+    ignore
+
+commit b56818802aba321e22be4fc64a0682233b232a7d
+Author: pandian <pandian@hippo.com>
+Date:   Thu Jun 8 19:29:40 2023 +0530
+    1st line
+
+commit 01707ce34e1e15d442c0dcc791f7945c70bd105c
+Author: awspandian <46845070+awspandian@users.noreply.github.com>
+Date:   Thu Jun 1 19:41:10 2023 +0530
+
+    Initial commit
+commit 87ab52b1008c79f21b9b0eb4c87d9b1c73f21881 (HEAD -> b2)
+Merge: 24879d7 c984d0b
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:45:24 2023 +0530
+
+    Merge branch 'b1' into b2
+
+commit 24879d758191d8c4ff235490cbf06daadf4135ac
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:44:39 2023 +0530
+
+    tests
+
+commit c984d0b0ed301827b56d8604bb80ba6c20767e43 (b1)
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:41:26 2023 +0530
+
+    test
+
+commit a715d5eb12f8c7c196b0eec4adde07eed7260bac
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:31:47 2023 +0530
+
+    line
+
+commit 4b8a2ee3921d1e07747012db3d24365a16c58e97
+Author: pandian <pandian@hippo.com>
+Date:   Thu Jun 8 19:36:18 2023 +0530
+
+    ignore
+
+commit b56818802aba321e22be4fc64a0682233b232a7d
+Author: pandian <pandian@hippo.com>
+Date:   Thu Jun 8 19:29:40 2023 +0530
+
+    1st line
+
+commit 01707ce34e1e15d442c0dcc791f7945c70bd105c
+Author: awspandian <46845070+awspandian@users.noreply.github.com>
+Date:   Thu Jun 1 19:41:10 2023 +0530
+
+    Initial commit
+commit 41ff2f9c571c95b55a937a6f78a0e1eb4d47cabd (HEAD -> b3)
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:32:14 2023 +0530
+
+    b1 line 5
+
+commit 7b58a38960e25a7a116b75359e67d73cc6066e94
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:31:08 2023 +0530
+
+    b1 line 4
+
+commit 28746ecbc4260db8b39ee306ee7db8eab4a4e8db
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:29:57 2023 +0530
+
+    b1 line 3
+
+commit 3e5783be6ee4b28b44da8e7624f38beb904018ae
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:28:53 2023 +0530
+
+    b1 line 2
+
+commit a4cbf74ae4179ee25818517c5fc7fe6f33ba4c98
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:26:37 2023 +0530
+
+    b1 line 1
+commit 21dc1d649c22cffd310c0531132928e79ec259b8
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:16:10 2023 +0530
+
+    b1 line one
+
+commit 87ab52b1008c79f21b9b0eb4c87d9b1c73f21881 (b2)
+Merge: 24879d7 c984d0b
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:45:24 2023 +0530
+
+    Merge branch 'b1' into b2
+
+:
+commit 41ff2f9c571c95b55a937a6f78a0e1eb4d47cabd (HEAD -> b3)
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:32:14 2023 +0530
+
+    b1 line 5
+
+commit 7b58a38960e25a7a116b75359e67d73cc6066e94
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:31:08 2023 +0530
+
+    b1 line 4
+
+commit 28746ecbc4260db8b39ee306ee7db8eab4a4e8db
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:29:57 2023 +0530
+
+    b1 line 3
+
+commit 3e5783be6ee4b28b44da8e7624f38beb904018ae
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:28:53 2023 +0530
+
+    b1 line 2
+
+commit a4cbf74ae4179ee25818517c5fc7fe6f33ba4c98
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:26:37 2023 +0530
+
+    b1 line 1
+:
+commit 41ff2f9c571c95b55a937a6f78a0e1eb4d47cabd (HEAD -> b3)
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:32:14 2023 +0530
+
+    b1 line 5
+
+commit 7b58a38960e25a7a116b75359e67d73cc6066e94
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:31:08 2023 +0530
+
+    b1 line 4
+
+commit 28746ecbc4260db8b39ee306ee7db8eab4a4e8db
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:29:57 2023 +0530
+
+    b1 line 3
+
+commit 3e5783be6ee4b28b44da8e7624f38beb904018ae
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:28:53 2023 +0530
+
+    b1 line 2
+commit a4cbf74ae4179ee25818517c5fc7fe6f33ba4c98
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:26:37 2023 +0530
+
+    b1 line 1
+
+commit 21dc1d649c22cffd310c0531132928e79ec259b8
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 22:16:10 2023 +0530
+
+    b1 line one
+
+commit 87ab52b1008c79f21b9b0eb4c87d9b1c73f21881 (b2)
+Merge: 24879d7 c984d0b
+Author: sherin <sherinselvam07@gmail.com>
+Date:   Sat Jun 17 21:45:24 2023 +0530
+
+    Merge branch 'b1' into b2
+
+
+HISTORY
+
+1  git clone https://github.com/sherinselvam/1J.git
+    2  cd 1J
+    3  ls
+    4  touch sherin
+    5  vi sherin
+    6  git add .
+    7  git commit -m "line"
+    8  git push
+    9  git branch b1
+   10  git branch b2
+   11  git branch b3
+   12  git checkout b1
+   13  ls
+   14  touch b1.txt
+   15  vi b1.txt
+   16  git add b1.txt
+   17  git add .
+   18  cat b1.txt
+   19  git commit -m "test"
+   20  ls
+   21  git commit -a -m "test"
+   22  git commit -m "test"
+   23  git status
+   24  git add "b1.txt"
+   25  git add .
+   26  git commit -m "test"
+   27  git checkout b2
+   28  ls
+   29  vi b2.txt
+   30  git add .
+   31  got commit -m "tests"
+   32  git commit -m "tests"
+   33  git add .
+   34  git commit -m "tests"
+   35  git merge b1
+   36  ls
+   37  git checkout b3
+   38  ls
+   39  git checkout b2
+   40  git rebase b2 b3
+   41  ls
+   42  git status
+   43  vi b1.txt
+   44  git log --oneline
+   45  vi b1.txt
+   46  git add b1.txt
+   47  git commit -m "b1 line one"
+   48  vi b1.txt
+   49  cat b1.txt
+   50  git add .
+   51  git commit -m "b1 line two"
+   52  cat b1.txt
+   53  vi b1.txt
+   54  vi b1.txt
+   55  vi b1.txt
+   56  vi b1.txt
+   57  git add b1.txt
+   58  git commit -m "b1 line 1"
+   59  vi b1.txt
+   60  cat b1.txt
+   61  git add b1.txt
+   62  git commit -m "b1 line 2"
+   63  cat b1.txt
+   64  git add b1.txt
+   65  git commit -m "b1 line 3"
+   66  cat b1.txt
+   67  git add b1.txt
+   68  git commit -m "b1 line 4"
+   69  git add b1.txt
+   70  git commit -m "b1 line 5"
+   71  cat b1.txt
+   72  git log --oneline
+   73  git checkout master
+   74  git checkout main
+   75  ls
+   76  git cherry-pick a4cbf74
+   77  git add .
+   78  git commit -m "cherry-pick one"
+   79  git cherry-pick 3e5783b
+   80  git cherry-pick 28746ec
+   81  git cherry-pick 7b58a38
+   82  git cherry-pick 41ff2f9
+   83  ls
+   84  cat b1.txt
+   85  git push
+   86  git checkout b1
+   87  git log
+   88  git checkout b2
+   89  git log
+   90  git checkout b3
+   91  git log
+   92  ggitgitgit
+   93  git checkout main
+   94  git log
+   95  git push
+   96  git branch -D b1 b2 b3
+   97  history
